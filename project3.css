@@ -1,0 +1,59 @@
+body {
+    background-color: aqua;
+    background-image: url('./images/bgmi.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.affu {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+}
+
+.main {
+    width: 800px;
+    margin: 100px 600px;
+}
+
+.register {
+    font-size: 18px;
+    width: 1000px;
+    border-radius: 10px solid white;
+    color: black;
+}
+
+#action {
+    margin: 40px
+}
+
+.arfu {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.any {
+    width: 300px;
+    border: 1px solid white;
+    padding: 7px;
+    outline: 0px;
+    border-radius: 3px;
+}
+
+.any:hover {
+    background-color: lightgreen;
+    color: cornflowerblue transition 0.5s ease;
+}
+
+.submit {
+    background-color: greenyellow;
+    cursor: pointer;
+    width: 150px;
+    padding: 7px;
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 3 px;
+    border: none;
+    font-weight: 600px;
+}
